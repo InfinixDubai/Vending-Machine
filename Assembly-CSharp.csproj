@@ -1061,6 +1061,10 @@
       <Project>{CBA857E8-AF23-4C31-1888-7EAC6BB5FE6A}</Project>
       <Name>Unity.Performance.Profile-Analyzer.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
+      <Project>{1A200CCB-FE10-A694-0E42-B93A5A406EC4}</Project>
+      <Name>Unity.2D.Sprite.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Shared.Editor.csproj">
       <Project>{14A50DFC-D962-98A0-CB19-703BEAFB1965}</Project>
       <Name>Unity.VisualScripting.Shared.Editor</Name>

@@ -103,7 +103,7 @@ public class WeightDisplay : MonoBehaviour
                     if (receivedShelfNumber == shelfNumber)
                     {
                         // Update the Text object with the weight
-                        textComponent.text = $"{shelfNumber}: {weight}";
+                        textComponent.text = $"{shelfNumber} : {weight}";
                     }
                 }
             }
